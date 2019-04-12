@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRMSConsoleUI", "HRMSConsoleUI\HRMSConsoleUI.csproj", "{0CBEFDF9-19A8-4A8A-BCE1-C013326C8B3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRMSBusinessLib", "HRMSBusinessLib\HRMSBusinessLib.csproj", "{2C6F6F27-A2F3-47E2-8506-62E709ED273C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRMSEntityLib", "HRMSEntityLib\HRMSEntityLib.csproj", "{6AB38DC9-914B-417C-AC37-F9ADE9D2338C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRMSDataAccessLib", "HRMSDataAccessLib\HRMSDataAccessLib.csproj", "{4943A5AB-FBBE-41E2-B108-DE25A974C4A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRMSWindFormUI", "HRMSWindFormUI\HRMSWindFormUI.csproj", "{8F472FBB-1A0D-4A3D-B615-98038727F5D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment", "Assignment\Assignment.csproj", "{9990B64E-DC8E-45DD-9DB7-A24589C117DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CBEFDF9-19A8-4A8A-BCE1-C013326C8B3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CBEFDF9-19A8-4A8A-BCE1-C013326C8B3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CBEFDF9-19A8-4A8A-BCE1-C013326C8B3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CBEFDF9-19A8-4A8A-BCE1-C013326C8B3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C6F6F27-A2F3-47E2-8506-62E709ED273C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C6F6F27-A2F3-47E2-8506-62E709ED273C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C6F6F27-A2F3-47E2-8506-62E709ED273C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C6F6F27-A2F3-47E2-8506-62E709ED273C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AB38DC9-914B-417C-AC37-F9ADE9D2338C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AB38DC9-914B-417C-AC37-F9ADE9D2338C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AB38DC9-914B-417C-AC37-F9ADE9D2338C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AB38DC9-914B-417C-AC37-F9ADE9D2338C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4943A5AB-FBBE-41E2-B108-DE25A974C4A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4943A5AB-FBBE-41E2-B108-DE25A974C4A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4943A5AB-FBBE-41E2-B108-DE25A974C4A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4943A5AB-FBBE-41E2-B108-DE25A974C4A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F472FBB-1A0D-4A3D-B615-98038727F5D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F472FBB-1A0D-4A3D-B615-98038727F5D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F472FBB-1A0D-4A3D-B615-98038727F5D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F472FBB-1A0D-4A3D-B615-98038727F5D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9990B64E-DC8E-45DD-9DB7-A24589C117DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9990B64E-DC8E-45DD-9DB7-A24589C117DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9990B64E-DC8E-45DD-9DB7-A24589C117DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9990B64E-DC8E-45DD-9DB7-A24589C117DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68C23E02-3CD2-44A8-B9CB-07034BE33FD7}
+	EndGlobalSection
+EndGlobal
